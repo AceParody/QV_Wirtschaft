@@ -1,1 +1,2 @@
-# QV_Wirtschaft
+This is my python project for calculating german contract prices.
+in development...
